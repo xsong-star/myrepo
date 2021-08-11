@@ -1,0 +1,1 @@
+//select demand_id,count(demand_id) from Task group by demand_id having count(*)>=2;
